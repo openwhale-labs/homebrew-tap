@@ -1,6 +1,6 @@
 cask "scrubjay" do
-  version "0.1.5"
-  sha256 "60dc8c5e49b8f21c03345bc047818ff7acdbfceb09f66fd07a678dfa1548c441"
+  version "0.1.6"
+  sha256 "6b563ed979b684f23e8477a39f605b35908e1d25214ff5154e7520ac5408f627"
 
   url "https://dl.openwhale.dev/scrubjay/ScrubJay-#{version}.dmg"
   name "ScrubJay"
